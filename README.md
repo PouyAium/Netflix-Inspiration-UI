@@ -1,6 +1,10 @@
-# netflix_clone_app_ui
+# Netflix clone app ui.
 
-A new Flutter project.
+An UI project by using bloc and cubit packages. 
+
+![Shot 0027](https://user-images.githubusercontent.com/108508397/193100661-67a7f369-c9bc-4c3a-b81e-b46957ddbf0e.png)
+![Shot 0028](https://user-images.githubusercontent.com/108508397/193100728-4b34381d-4ab1-4918-83c2-f999bff2c5c0.png)
+
 
 ## Getting Started
 
